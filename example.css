@@ -11,7 +11,7 @@ body {
     font-size: 300%;
     
   }
-  p {
+p {
     text-align: center;
     color: black;
     font-family: courier;
@@ -20,3 +20,4 @@ body {
   p {
     text-align: center;
   }
+  
