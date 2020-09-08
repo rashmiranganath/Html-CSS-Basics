@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(255, 95, 188);
+  }
+  h1 {
+    border: 2px solid powderblue;
+
+    text-align: center;
+      color: rgb(0, 255, 149);
+      font-family: verdana;
+      font-size: 300%;
+    
+  }
+  p {
+    text-align: center;
+    color: black;
+    font-family: courier;
+    font-size: 160%;
+  }
+  p {
+    text-align: center;
+  }
