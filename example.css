@@ -3,11 +3,12 @@ body {
   }
   h1 {
     border: 2px solid powderblue;
-
+    padding: 10px;
+    margin: 80px;
     text-align: center;
-      color: rgb(0, 255, 149);
-      font-family: verdana;
-      font-size: 300%;
+    color: rgb(0, 255, 149);
+    font-family: verdana;
+    font-size: 300%;
     
   }
   p {
